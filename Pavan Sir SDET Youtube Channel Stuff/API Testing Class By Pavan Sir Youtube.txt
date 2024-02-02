@@ -1,0 +1,95 @@
+
+API Testing By Mr Pavan Youtube Channel SDET- QA
+
+www.pavanonlinetrainings.com
+
+Session1: Introduction to API Testing
+
+Topics Covered:
+-------------------------------------
+1) What is Client & server?
+2) lient-server architecture
+3) What is an API?
+4) What is API Testing? Why it is needed?
+5) Types of an API - SOAP & Rest
+6) API Vs Webservice
+7) Rest API methods
+8) http Vs https
+
+Session 2: API Testing | Postman | Environment Setup & Types of HTTP Requests
+
+Topics Covered:
+-------------------------
+1) Postman Introduction 
+2) Postman installation
+3) Creating Workspace
+4) Creating Collection
+5) Creating Requests - Get, Post, Put & Delete    
+6) Saving & Editing Requests
+7) Operations on Collections
+8) Things to be validated in response
+9) Status codes
+10)Cookies & Headers
+11) Response body
+12) Exporting & Importing Collections
+
+Demo API Project 
+
+Reqres Project : https://reqres.in/api/users?page=2
+
+
+{
+
+"Students" : 
+              [ {
+                 "id" : 
+                 "name " : "
+                 "location" :
+                 "phone number " : 
+                 "Emial Address" :
+                 "course" :["Manual Testing", " Game Testing ", "Mobile Testing" } ],
+
+              [ {
+                 "id" : 
+                 "name" :"
+                 "location" :
+                 "phone number " : 
+                 "Emial Address" :
+                 "course" :[" API Testing", " Rest Assured Testing ", " Perforance Testing" } ],
+              [ {
+                 "id" : 
+                 "name ": "
+                 "location" :
+                 "phone number " : 
+                 "Emial Address" :
+                 "course" :[" Sanity Testing", " Integration Testing ", " Exploratory Testing" } ],
+
+             [ {
+                 "id" : 
+                 "name" : "
+                 "location" :
+                 "phone number " : 
+                 "Emial Address" :
+                 "course" :[" Software Testing ", " Appium Testing ", " APi Testing" } ],
+
+             [ {
+                 "id" : 
+                 "name ": "
+                 "location" :
+                 "phone number " : 
+                 "Emial Address" :
+                 "course" :[" Python", " JAVA ", " Json " } ],
+
+              [ {
+                 "id" : 
+                 "name" : "
+                 "location" :
+                 "phone number " : 
+                 "Emial Address" :
+                 "course" :[" PHP", " Android Testing ", " IOS Device Testing" } ]
+
+}
+
+
+
+

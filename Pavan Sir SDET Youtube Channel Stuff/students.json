@@ -1,0 +1,51 @@
+{
+
+"Students" : 
+              [ {
+                 "id" : 001
+                 "name " : "Vasa Sai Kumar "
+                 "location" : "Bangalore "
+                 "phone number " : "7799332203"
+                 "Emial Address" : "vasa.saikumar08@gmail.com"
+                 "course" :["Manual Testing", " Game Testing ", "Mobile Testing" } ],
+
+              [ {
+                 "id" : 002 
+                 "name" :"Sai Kumar "
+                 "location" :" Hyderabad "
+                 "phone number " :"8686850616" 
+                 "Emial Address" : "saikumar04@gmail.com"
+                 "course" :[" API Testing", " Rest Assured Testing ", " Perforance Testing" } ],
+              [ {
+                 "id" : 003
+                 "name ": "VASA"
+                 "location" :"Nalgonda"
+                 "phone number " : "7799124156"
+                 "Emial Address" :"vasa.saikumar1234@gmail.com"
+                 "course" :[" Sanity Testing", " Integration Testing ", " Exploratory Testing" } ],
+
+             [ {
+                 "id" : 004
+                 "name" : " Aashish"
+                 "location" : "West Godavari"
+                 "phone number " : 9494123123
+                 "Emial Address" :"Aashish@gmail.com"
+                 "course" :[" Software Testing ", " Appium Testing ", " APi Testing" } ],
+
+             [ {
+                 "id" : 005
+                 "name ": " Rahul"
+                 "location" :"Delhi"
+                 "phone number " : 7787781234
+                 "Emial Address" :"Rahul@gmail.com"
+                 "course" :[" Python", " JAVA ", " Json " } ],
+
+              [ {
+                 "id" : 006
+                 "name" : "Hitman"
+                 "location" :"Mumbai" 
+                 "phone number " :"2196620166 
+                 "Emial Address" :"Hitman@gmai.com"
+                 "course" :[" PHP", " Android Testing ", " IOS Device Testing" } ]
+
+}
