@@ -1,0 +1,168 @@
+00:07:24	Himanshu:	ok
+00:07:33	gurpreet kaur:	good morning to all
+00:07:36	Kamlesh:	Yes
+00:07:38	gurpreet kaur:	yes
+00:09:01	Kamlesh:	A
+00:09:05	Shahnaz:	yes
+00:09:08	gurpreet kaur:	A
+00:09:19	AemalJamal:	Yes
+00:11:01	Kamlesh:	Yes
+00:11:34	gurpreet kaur:	integer
+00:11:37	Kamlesh:	Integer
+00:11:47	gurpreet kaur:	sring
+00:11:49	Sumit:	string
+00:11:50	Shahnaz:	string
+00:11:51	Shivani:	String
+00:11:51	gurpreet kaur:	string
+00:11:51	Kamlesh:	String
+00:12:05	gurpreet kaur:	linl
+00:12:07	Sumit:	string
+00:12:12	Kamlesh:	String
+00:13:08	Shahnaz:	yes
+00:13:56	Sumit:	array
+00:13:56	gurpreet kaur:	O
+00:13:57	Kamlesh:	Object
+00:15:08	gurpreet kaur:	yes
+00:15:43	Kamlesh:	Do we have to check all the key value pairs of an object? 
+00:16:09	Kamlesh:	Yes
+00:16:36	Kamlesh:	Ok got it.. Thanks
+00:17:54	Sourav Saha:	yes
+00:17:56	gurpreet kaur:	yes
+00:17:57	Kamlesh:	Yes
+00:19:35	gurpreet kaur:	o
+00:19:44	Kamlesh:	Object
+00:19:51	Shivani:	Yes
+00:20:19	Kamlesh:	A
+00:20:19	Shivani:	A
+00:20:23	Sourav Saha:	a
+00:20:32	gurpreet kaur:	width, height optional?
+00:21:22	Kamlesh:	Yes
+00:21:33	gurpreet kaur:	a
+00:21:34	Kamlesh:	Object
+00:21:46	Shivani:	It should be array na
+00:22:07	Shivani:	Like tags
+00:22:28	Shivani:	Then why not dimension
+00:22:51	Shivani:	Why dimension should be object
+00:22:57	Shahnaz:	yes
+00:23:12	Shivani:	Ok
+00:23:18	Kamlesh:	Clear
+00:23:51	Kamlesh:	Yes
+00:23:53	gurpreet kaur:	clearyes
+00:23:55	Sourav Saha:	yes
+00:23:58	Kamlesh:	No
+00:23:58	Shivani:	No
+00:24:00	gurpreet kaur:	no
+00:24:02	Shivani:	Yes
+00:24:21	Kamlesh:	Yes
+00:24:37	gurpreet kaur:	y
+00:24:38	Kamlesh:	Yes
+00:24:40	Shivani:	Yes
+00:25:08	Sourav Saha:	if any mistake is made, we have to find it manually for the mistake?
+00:25:32	Shivani:	Yes
+00:25:37	gurpreet kaur:	value doesn't matter?
+00:26:08	gurpreet kaur:	y
+00:26:09	Shivani:	Ok
+00:26:43	gurpreet kaur:	y
+00:26:43	Shivani:	Yes
+00:26:45	Kamlesh:	Yes
+00:26:46	Sourav Saha:	yes
+00:26:51	Kamlesh:	No
+00:26:52	gurpreet kaur:	no
+00:26:56	Shivani:	Yes
+00:27:01	Sourav Saha:	no
+00:27:03	Kamlesh:	No
+00:27:07	Sourav Saha:	yes
+00:28:07	Pramod:	https://www.youtube.com/watch?v=X072eKtOIio
+00:28:36	Kamlesh:	Yes
+00:28:37	Shivani:	Yes
+00:28:53	gurpreet kaur:	y
+00:28:55	Shivani:	Yes
+00:28:56	Kamlesh:	Yes
+00:29:56	Pramod:	https://api.postman.com/collections/611814-588ca8d5-510b-4794-8d92-d3cba9f919c3?access_key=PMAT-01GJVMNF6WMNFZPJS79GAZD3HM
+00:30:45	gurpreet kaur:	y
+00:30:51	Shivani:	Yes
+00:30:55	Kamlesh:	Yes
+00:31:09	Shivani:	Yes
+00:31:14	Shivani:	Why
+00:31:17	gurpreet kaur:	json schema website will give us format
+00:31:19	Sumit:	Y
+00:31:59	gurpreet kaur:	Y
+00:32:03	AemalJamal:	y
+00:32:05	Kamlesh:	Yes
+00:32:11	Ruqaiyya Patel:	Yes
+00:32:38	gurpreet kaur:	YES
+00:32:38	Sourav Saha:	yes
+00:32:40	Kamlesh:	Yes
+00:33:26	gurpreet kaur:	w
+00:33:29	Kamlesh:	W
+00:33:30	Shivani:	W
+00:36:22	Kamlesh:	Yes
+00:36:23	Shahnaz:	yes
+00:36:25	Shivani:	Yes
+00:36:25	Sourav Saha:	yes
+00:36:26	Ruqaiyya Patel:	Yes
+00:36:27	Himanshu:	s syes
+00:36:27	Sumit:	yes
+00:36:30	Himanshu:	yes
+00:36:31	shraddha.devlekar:	yes
+00:37:04	Shivani:	W
+00:37:05	Sourav Saha:	w
+00:37:06	Sumit:	W
+00:37:14	Ruqaiyya Patel:	W
+00:38:31	AemalJamal:	n
+00:38:32	Himanshu:	no
+00:38:36	Kamlesh:	No
+00:40:19	Shahnaz:	yes
+00:40:21	Kamlesh:	Yes
+00:40:22	Shivani:	Yes
+00:40:41	Shahnaz:	cc
+00:40:42	gurpreet kaur:	cc
+00:40:45	Shivani:	Cc
+00:40:47	Kamlesh:	Cc
+00:41:51	Shivani:	Ceate read update delete
+00:42:33	gurpreet kaur:	patch
+00:42:35	Shivani:	Patch
+00:42:36	Kamlesh:	Patch
+00:42:41	Shivani:	Post
+00:42:42	gurpreet kaur:	put
+00:42:43	Kamlesh:	Post
+00:42:46	Shivani:	Put
+00:42:48	Kamlesh:	Get
+00:42:48	Shahnaz:	get
+00:43:13	Shivani:	Yes
+00:44:00	gurpreet kaur:	bearer
+00:44:02	Shivani:	Bearer
+00:44:31	Shivani:	Clear
+00:45:53	gurpreet kaur:	token
+00:47:27	Shivani:	Yes
+00:47:30	chaturya K:	S
+00:48:36	Kamlesh:	Yes
+00:48:37	Shivani:	Yes
+00:48:47	Shivani:	Real
+00:48:48	gurpreet kaur:	real
+00:48:59	gurpreet kaur:	o
+00:49:03	Kamlesh:	Object
+00:49:12	gurpreet kaur:	yes
+00:49:15	Shivani:	Yes
+00:49:15	Kamlesh:	Yes
+00:49:18	Shahnaz:	yes
+00:51:28	Shivani:	No
+00:51:32	Shivani:	Yes
+00:51:36	gurpreet kaur:	got it
+00:51:37	Kamlesh:	Yes
+00:54:27	Shivani:	Yes
+00:54:29	Kamlesh:	Yes
+01:03:45	Shivani:	N
+01:04:43	Shivani:	Yes
+01:05:12	Shivani:	Clear
+01:05:41	Shivani:	No
+01:05:43	Ruqaiyya Patel:	No
+01:05:50	Gurpreet Kaur:	yes
+01:05:50	Shivani:	Yes
+01:05:52	Shahnaz:	yes
+01:05:57	Kamlesh:	Yes
+01:06:26	Kamlesh:	Fe
+01:06:26	Gurpreet Kaur:	unmute
+01:06:26	Shivani:	Yes
+01:06:31	Ruqaiyya Patel:	Enough
+01:09:30	Shivani:	Yes
